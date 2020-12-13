@@ -74,6 +74,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Projects/Git/Test/d.h">
+			<Option target="Test"/>
+		</Unit>
 		<Unit filename="C:/Projects/Git/Test/main.c">
 			<Option target="Test"/>
 		</Unit>
